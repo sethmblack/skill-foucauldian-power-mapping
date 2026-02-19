@@ -4,7 +4,7 @@ description: Map how power circulates in a situation, institution, or practice. 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4031
+  version: 1.0.4032
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - foucauldian-power-mapping
